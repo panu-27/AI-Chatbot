@@ -25,7 +25,7 @@ function App() {
 <>
   <div className="flex flex-col items-center bg-gray-100 min-h-screen">
     <div className="flex flex-col justify-center gap-5 m-0 bg-white rounded-lg shadow-lg p-6 w-full h-full max-w-md mx-auto">
-      <h1 className="text-2xl text-yellow-500 font-bold text-center mb-4">JIJA AI</h1>
+      <h1 className="text-2xl text-yellow-500 font-bold text-center mb-4">AI</h1>
       <textarea
         className="p-4 bg-gray-200 rounded-lg shadow focus:outline-none focus:ring-2 focus:ring-blue-400 w-full resize-none"
         rows={4}
